@@ -1,2 +1,2 @@
 # Jaldrishti
-A ip based underwater camera used by implementing thermal vision algorithm , Target detection algorithm &amp; edge detection algorithm . Also capable to save recordings and snapshot in underwater view .
+Jal Drishti is a high-performance Windows desktop application designed for real-time underwater monitoring and fishery management. It leverages YOLOv11 for AI-driven target detection and utilizes a custom multi-threaded FFmpeg/OpenCV architecture to deliver zero-latency RTSP camera streaming. Key features include simulated IR and thermal imaging, live telemetry, hardware-accelerated UI, and synchronized media recording.
